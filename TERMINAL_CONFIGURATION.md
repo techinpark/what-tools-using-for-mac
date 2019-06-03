@@ -25,4 +25,5 @@ Fernando, Using this Terminal for Working
 
 
 ### zsh Theme
+  - [agnoster](https://github.com/agnoster/agnoster-zsh-theme)
   
