@@ -51,5 +51,5 @@ Finally, I shared this document for others, and for furute me. :smile:
 - [overkill](https://github.com/KrauseFx/overkill-for-mac)
 - [iTools](https://www.itools4.com/)
 - [QuickType](https://itunes.apple.com/us/app/paste-json-as-code-quicktype/id1330801220?mt=12)
-- [Apple Configuration2](Apple Configuration2)
+- [Apple Configuration2](https://itunes.apple.com/kr/app/apple-configurator-2/id1037126344?mt=12)
 - [Zeplin](https://zeplin.io/)
