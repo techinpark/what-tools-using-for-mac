@@ -8,9 +8,12 @@ Fernando, Using this Terminal for Working
   - Install [OhMyZsh!](https://github.com/robbyrussell/oh-my-zsh)
   
  
-### Customizing 
+## Customizing 
 
-#### iTerm Preferences
+
+
+
+### iTerm Preferences
   - Install Terminal Font [Ubuntu Mono](https://github.com/powerline/fonts/tree/master/UbuntuMono)
 
   
@@ -21,5 +24,6 @@ Fernando, Using this Terminal for Working
   - [Material Dark Theme](https://github.com/MartinSeeler/iterm2-material-design)
   - If you want setting equal to me check [This](./iterm2/material-dark.itermcolors) files. (theme file) 
 
-#### zsh Theme
+
+### zsh Theme
   
