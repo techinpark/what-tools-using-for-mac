@@ -5,6 +5,10 @@ Finally, I shared this document for others, and for furute me. :smile:
 
 ## Begin start new mac?  
 
+### Terminal Configuration 
+
+If want know, how to setting terminal configuration check [Here](./TERMINAL_CONFIGURATION.md)
+
 ### Basics
 
 #### Package Manager 
