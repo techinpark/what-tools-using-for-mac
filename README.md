@@ -8,9 +8,11 @@ Finally, I shared this document for others, and for furute me. :smile:
 
 ### Terminal Configuration 
 
-If want know, how to setting terminal configuration check [Here](./TERMINAL_CONFIGURATION.md)
+- If want know, how to setting terminal configuration check [here](./TERMINAL_CONFIGURATION.md)
 
 ### Basics
+
+- If you want install with `brew cask` check [here](./install-for-cask.md)
 
 #### Package Manager 
  - [Homebrew](https://brew.sh/index_ko)
