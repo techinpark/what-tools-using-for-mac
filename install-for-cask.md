@@ -127,9 +127,7 @@ sudo gem install cocoapods
 ```
 brew cask install overkill
 ```
-### [iTools](https://www.itools4.com/)
-```
-```
+
 ### [QuickType](https://itunes.apple.com/us/app/paste-json-as-code-quicktype/id1330801220?mt=12)
 ```
 ```
