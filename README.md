@@ -45,6 +45,7 @@ Finally, I shared this document for others, and for furute me. :smile:
 - [Sequal Pro](https://www.sequelpro.com/)
 - [FileZila](https://filezilla-project.org/download.php)
 - [Github Desktop](https://desktop.github.com/)
+- [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)
 
 
 #### for iOS Develop
