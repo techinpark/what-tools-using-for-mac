@@ -92,6 +92,13 @@ brew cask install sequal-pro
 brew cask install github
 ```
 
+### [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)
+```
+brew cask install openinterminal
+```
+
+
+
 ## for iOS Develop
 
 ### [Xcode](https://github.com/xcpretty/xcode-install)
