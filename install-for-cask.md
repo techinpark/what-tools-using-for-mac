@@ -80,9 +80,9 @@ brew cask install visual-studio-code
 ```
 brew cask install fork 
 ```
-### [Sequal Pro](https://www.sequelpro.com/)
+### [Sequel Pro](https://www.sequelpro.com/)
 ```
-brew cask install sequal-pro
+brew cask install sequel-pro
 ```
 ### [FileZila](https://filezilla-project.org/download.php)
 ```
