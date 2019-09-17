@@ -14,7 +14,7 @@
 
   ### [Chrome](https://www.google.com/intl/ko/chrome/) <br>
   ```ruby
-    brew cask install chrome-browser
+    brew cask install google-chrome
   ```
  ### [CleanMyMac](https://macpaw.com/cleanmymac) 
   ```ruby
