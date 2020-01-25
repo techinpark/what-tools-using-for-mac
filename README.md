@@ -37,6 +37,7 @@ Finally, I shared this document for others, and for furute me. :smile:
 ### Develop Tools 
 
 - [iTerm2](https://www.iterm2.com/) 
+- [Hyper](https://hyper.is/)
 - [Magnet](https://itunes.apple.com/kr/app/magnet-%EB%A7%88%EA%B7%B8%EB%84%B7/id441258766?mt=12) 
 - [Caffeine](https://caffeine.ko.softonic.com/mac)
 - [Sublime Text3](https://www.sublimetext.com/3)
