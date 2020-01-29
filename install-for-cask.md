@@ -145,3 +145,8 @@ brew cask install overkill
 ```
 brew cask install zeplin
 ```
+
+### [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)
+```
+brew cask install provisionql
+```
